@@ -2,3 +2,4 @@ hello world!!! 22222  master test
 hello Git!     33333   hot-fix test
 hello dear!    44444   ssh pull test
 hello sun!     55555   ssh push test
+hello star!    66666   githup update to gitee test
